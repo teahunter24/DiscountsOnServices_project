@@ -1,0 +1,20 @@
+@import url("./styles_background.css");
+@import url("./styles_fonts.css");
+@import url("./styles_m_header.css");
+@import url("./styles_m_start-using.css");
+@import url("./styles_m_subscription.css");
+@import url("./styles_m_hiw.css");
+@import url("./styles_m_about-us.css");
+@import url("./styles_m_FAQ.css");
+@import url("./styles_m_request.css");
+@import url("./styles_m_footer.css");
+
+.caption {
+    margin-top: 15vh;
+    margin-bottom: 1em;
+    text-align: center;
+    font-weight: 700;
+    font-size: 6vw;
+    line-height: 140%;
+    color: #171717;
+}
